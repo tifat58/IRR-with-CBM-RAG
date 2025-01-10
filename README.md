@@ -77,4 +77,7 @@ If you use this code or results in your research, please cite:
 This repository is licensed under the MIT License. See `LICENSE` for details.
 
 ## Acknowledgements
-This work is funded by the Federal Ministry of Education, Science, Research and Technology (BMBF), Germany, under grant number 01IW23002 (No-IDLE).
+- **[CheXAgent](https://huggingface.co/StanfordAIMI/CheXagent-8b)**: Used for extracting CXR image embeddings.
+- **[DragonflyMED](https://huggingface.co/togethercomputer/Llama-3-8B-Dragonfly-Med-v1)**: Used for generating ground-truth readings.
+
+- This work is funded by the Federal Ministry of Education, Science, Research and Technology (BMBF), Germany, under grant number 01IW23002 (No-IDLE).
