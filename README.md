@@ -3,6 +3,8 @@
 
 This is the official repository for the paper titled "Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG" accepted in the 47th European Conference for Information Retrieval (ECIR) 2025
 
+The clinical documentation used for RAG can be downloaded from [here](https://drive.google.com/file/d/1w8aGQQoa6UKqDO260A-5-bMUuxYZ0F5D/view?usp=sharing).
+
 ## Overview
 
 Deep learning models have advanced medical image analysis, particularly in Chest X-ray (CXR) interpretation. However, interpretability challenges hinder their clinical adoption. This study proposes a novel framework that integrates:
