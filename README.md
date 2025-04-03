@@ -1,7 +1,9 @@
 
 # Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG
 
-This is the official repository for the paper titled "Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG" accepted in the 47th European Conference for Information Retrieval (ECIR) 2025
+This is the official repository for the paper titled "Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG" accepted in the 47th European Conference for Information Retrieval (ECIR) 2025 
+Preprint: https://arxiv.org/abs/2412.16086
+Contact: hasan.alam@dfki.de
 
 The clinical documentation used for RAG can be downloaded from [here](https://drive.google.com/file/d/1w8aGQQoa6UKqDO260A-5-bMUuxYZ0F5D/view?usp=sharing).
 
