@@ -3,6 +3,8 @@
 
 This is the official repository for the paper titled "Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG" accepted in the 47th European Conference for Information Retrieval (ECIR) 2025 
 
+Publication Link: https://link.springer.com/chapter/10.1007/978-3-031-88714-7_18
+
 Preprint: https://arxiv.org/abs/2412.16086
 
 Contact: hasan.alam@dfki.de
