@@ -73,11 +73,21 @@ Reports were evaluated using LLM-based metrics for Semantic Similarity, Accuracy
 If you use this code or results in your research, please cite:
 
 ```
-@article{alam2024towards,
-  title={Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG},
-  author={Alam, Hasan Md Tusfiqur and Srivastav, Devansh and Kadir, Md Abdul and Sonntag, Daniel},
-  journal={arXiv preprint arXiv:2412.16086},
-  year={2024}
+@inproceedings{10.1007/978-3-031-88714-7_18,
+author = {Alam, Hasan Md Tusfiqur and Srivastav, Devansh and Kadir, Md Abdul and Sonntag, Daniel},
+title = {Towards Interpretable Radiology Report Generation via&nbsp;Concept Bottlenecks Using a&nbsp;Multi-agentic RAG},
+year = {2025},
+isbn = {978-3-031-88713-0},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-031-88714-7_18},
+doi = {10.1007/978-3-031-88714-7_18},
+abstract = {Deep learning has advanced medical image classification, but interpretability challenges hinder its clinical adoption. This study enhances interpretability in Chest X-ray (CXR) classification by using concept bottleneck models (CBMs) and a multi-agent Retrieval-Augmented Generation (RAG) system for report generation. By modeling relationships between visual features and clinical concepts, we create interpretable concept vectors that guide a multi-agent RAG system to generate radiology reports, enhancing clinical relevance, explainability, and transparency. Evaluation of the generated reports using an LLM-as-a-judge confirmed the interpretability and clinical utility of our model’s outputs. On the COVID-QU dataset, our model achieved 81\% classification accuracy and demonstrated robust report generation performance, with five key metrics ranging between 84\% and 90\%. This interpretable multi-agent framework bridges the gap between high-performance AI and the explainability required for reliable AI-driven CXR analysis in clinical settings. Our code will be released at},
+booktitle = {Advances in Information Retrieval: 47th European Conference on Information Retrieval, ECIR 2025, Lucca, Italy, April 6–10, 2025, Proceedings, Part III},
+pages = {201–209},
+numpages = {9},
+keywords = {Interpretable Radiology Report Generation, Concept Bottleneck Models, Multi-Agent RAG, Explainable AI, LLMs, VLMs},
+location = {Lucca, Italy}
 }
 ```
 
